@@ -98,7 +98,7 @@ for K = 2:
 - matplotlib
 - scikit-learn
 - opencv-python
-- python-dotenv
+
 
 
 
